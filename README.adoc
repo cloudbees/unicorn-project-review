@@ -9,7 +9,7 @@ In the spirit of distributed and asynchronous work, we are creating this “Cont
 
 Matt Sicker, Senior Software Engineer (Jenkins Security), CloudBees [add more here about yourself, contact information]
 
-Karen Taggart, Principal Customer Success Engineer, CloudBees, ktaggart@cloudbees.com, @AngryTechFeminist
+Karen Taggart, Principal Customer Success Engineer, CloudBees, ktaggart@cloudbees.com, https://twitter.com/thecrazydoglady?lang=en[@AngryTechFeminist]
 
 == How To Contribute
 
