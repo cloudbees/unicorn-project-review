@@ -23,11 +23,21 @@ Karen Taggart, Principal Customer Success Engineer, CloudBees, ktaggart@cloudbee
 
 === Book summary
 
+To say that Karen was excited to learn that there would be a follow-up to https://www.goodreads.com/book/show/17255186-the-phoenix-project[The Phoenix Project] would be an understatement. Karen often tells the story of how she left two different jobs because of Gene Kim's first book. The first time it happened, her new boss had said she was no longer allowed to use Trello, didn't believe that automated testing was possible, and asked her to prepare a proposal to present to the executives to request approval to do an analysis of SDLC methods and tools. The second time, it was because her diagrams of the five different environments needed for development of the product she was working on was deemed just "too complicated" and every two weeks her databases would be destroyed by a release (which, by the way, took all day and required an Engineer to followe 25+ manual steps that may or may not result in a successful release). 
+
+That was over two years ago (which is at least five years in DevOps time), and while she is much happier now working among other believers in the ways of _The Phoenix Project_, new challenges pop up everyday. And a lot has changed in the world since Kim published his first book SEVEN years ago! So, her excitement came not just from being a Kim fangirl, but from the very real need for a renewed sense of the solidarity she felt when first reading _Phoenix_ and immediate ideas she could apply to her current struggles.
+
+_The Unicorn Project_ was exactly what she needed! Karen was expecting it to be a sequel, but instead it takes place concurrently with _The Phoenix Project_, but with the caveat that "situational elements ... have been altered to account for changes in our industry."footnote:[Note to the Reader] The story begins just after the famed payroll crisis at the fictional company Parts Unlimnited. Only this time, readers are introduced to Maxine Chambers, a Developer Lead/Architect who is blammed unfairly for the error, in a political move by executives to place blame on a single person. As part of her penance, she is sent to work on the Phoenix Project, which Maxine describes as "the company dealth-march project, having ensared hunderads of developers, achieving unprecedentd levels of notoriety."footnote:[Chapter 1, pg 7]
+
+Maxine has a reputation for being able to solve big problems, so the Phoenix team is happy to have her. Her worst fears are realized when she hits every roadblock imaginable (which will be familiar to many readers!) - unlocatable source code (are they even using an SCM?), horrible physical office environment, circular ticketing system, a culture of fear, lack of team interaction, no documentation, no successful build, and the list goes on and on and on. A glimmer of hope presents itself when a group of rogue staff invite her to become part of a secret Rebellion they have formed in an effort to change the way work is done so that product that provides value can be delievered, and so that employees might actually enjoy their work. The book follows their trials and tribulations as they relate to people, process, and tools. Karen found herself underlining (yep, she has a book book copy) and writing note on almost every page, and was amazed at how Kim managed to incorporate such a breadth of absolutely relatable issues (was he secretly spying on all of us?).
+
 === Things I want to try/implement 
 
 === I really agree with…
 
 === I really disagree with…
+
+=== Ways of Working
 
 === Diversity and inclusion
 
